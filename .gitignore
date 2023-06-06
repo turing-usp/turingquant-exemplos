@@ -1,3 +1,6 @@
 venv/
 env/
 .DS_Store
+volatilidade.ipynb
+.ipynb_checkpoints/
+onboarding.ipynb
