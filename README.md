@@ -1,4 +1,4 @@
-# Aplicação da biblioteca turingquant
+# Projeto de aplicação da biblioteca turingquant
 Este projeto utiliza as funções da biblioteca turingquant para obter insigths do desempenho de ativos do mercado brasileiro
 
 ## 1. Criação do ambiente virtual
