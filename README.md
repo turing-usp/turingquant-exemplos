@@ -9,3 +9,20 @@ Para criar o ambiente virtual, podemos executar estes comandos no terminal:
 python3.9 -m venv venv
 source venv/bin/activate
 ```
+
+## 2. Instalação da biblioteca turingquant
+Para utilizar a biblioteca turingquant temos que instalar os pacotes mostrados no block code
+```
+!pip install turingquant
+!pip install scipy
+```
+
+## 3. Importação da biblioteca turingquant
+
+No block code embaixo se mostra um exemplo de importação da biblioteca turingquant:
+```
+# exemplo de importacao da funcao Markowitz da biblioteca turingquant
+from turingquant.optimizers import Markowitz
+# importamos a biblioteca para importar os dados com a api do yahoo finance
+import yfinance as yf
+```
